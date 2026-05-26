@@ -15,3 +15,27 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+# Maven
+target/
+*.class
+
+# Test reports — keep reports but ignore screenshots
+test-reports/**/screenshots/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+*.dump
+*.dumpstream
+
+# Environment
+*.env

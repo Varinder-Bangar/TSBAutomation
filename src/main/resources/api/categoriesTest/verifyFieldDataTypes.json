@@ -1,0 +1,12 @@
+[
+  {
+    "fieldsList": [
+      "IsRestricted",
+      "HasLegalNotice",
+      "HasClassifieds",
+      "CanHaveSecondCategory",
+      "CanBeSecondCategory",
+      "IsLeaf"
+    ]
+  }
+]
