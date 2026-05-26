@@ -116,6 +116,11 @@ mvn clean test
 
 ---
 
+
+## Test Cases
+
+Test cases are written in markdown files and can be found in the root directory **testcases**.
+
 ## Test Reports
 
 Reports are automatically generated after each run.
